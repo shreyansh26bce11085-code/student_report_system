@@ -70,6 +70,3 @@ To verify the system functionality, follow these manual test scenarios during pr
 | **Class Summary Batch** | Input `N = 2` students with varying marks. | Generates accurate combined class average, identifies the top student, and prints the overall risk dictionary count. |
 
 ---
-
-
-### Class Analytics & Summary
